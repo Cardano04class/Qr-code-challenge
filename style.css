@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding: 20px;
+  width: 300px;
+}
+
+.qr-code {
+  width: 100%;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 18px;
+  color: hsl(218, 44%, 22%);
+  margin: 20px 0 10px;
+}
+
+p {
+  font-size: 14px;
+  color: hsl(220, 15%, 55%);
+  line-height: 1.5;
+}
