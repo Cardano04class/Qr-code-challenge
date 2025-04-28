@@ -1,4 +1,4 @@
-<img src="./preview.png" alt="Screenshot">   
+<img src="/preview.png" alt="Screenshot">   
 
 ## Summary:
 
